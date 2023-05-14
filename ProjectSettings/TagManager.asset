@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - L_4RSU
+  - RSU7
+  - RSU8
+  - RSU9
+  - RSU10
+  - RSU11
+  - RSU12
+  - RSU13
+  - RSU14
+  - RSU15
+  - Car
+  - RSU1
+  - RSU2
+  - RSU3
+  - RSU4
+  - RSU5
+  - RSU6
+  - RSU16
+  - RSU17
+  - RSU18
+  - RSU19
+  - RSU20
+  - RSU21
+  - RSU22
+  - RSU23
+  - RSU24
+  - RSU25
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - obstacle
+  - target
+  - start
+  - RSU
+  - RSUwait
+  - RSU_3cross
+  - RSU_2cross
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
